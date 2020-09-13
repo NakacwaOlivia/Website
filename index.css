@@ -1,0 +1,35 @@
+h1 {
+  font-family: system-ui;
+  background: #f06d06;
+  color: green;
+  text-align: center;
+}
+h2{
+  text-align: justify;
+  color: black;
+}
+h3{
+  text-align: left;
+  color: pink;
+}
+h4{
+  text-align: left;
+  color: brown;
+}
+h5{
+  text-align: center;
+  color: purple;
+}
+p{
+  text-align: justify;
+}
+body{
+  text-align: justify;
+  font-family: comic sans;
+  background: grey;
+  color:white;
+  font-size: large;
+}
+section{
+  text-align: center;
+}
